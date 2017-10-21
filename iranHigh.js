@@ -1,4 +1,5 @@
 // (c) ammap.com | SVG (in JSON format) map of Iran - High
+// TODO: seprate some new regions
 AmCharts.maps.iranHigh={
 	"svg": {
 		"defs": {
